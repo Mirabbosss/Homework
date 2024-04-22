@@ -198,3 +198,27 @@
 // }
 
 // myContactList()
+
+
+
+
+
+
+
+
+
+// ForEach 
+
+// let skills = ["html", "css", "scss", "bootstrap", "tailwind", "javascript"];
+
+// 1-usul
+
+// skills.forEach ((value, index, array) => {
+//     console.log(`${index + 1}. ${value}`);
+// })
+
+// 2-sul
+
+// skills.forEach (function (value, index, array) {
+//     console.log(`${index + 1}. ${value}`);
+// })
